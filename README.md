@@ -31,7 +31,7 @@ The application is structured into four sequential modules:
     *   2007–2009 Subprime Crisis
     *   2020 COVID Shock
     *   2022 Inflation & Rates Shock
-*   **Monte Carlo Simulation**: Future projection of portfolio value with confidence intervals (Cone of Uncertainty).
+*   **Monte Carlo-Simulation**: Future projection of portfolio value with confidence intervals (cone of uncertainty).
 
 ## Technology Stack
 
